@@ -22,7 +22,7 @@ Make a list of all participants that will join the transport.
 
 Register arrival/departure times of attendees.
 
-Include information on local transport backups and taxi fares for latecomers in the program and email reminders.
+Include information in the program and email reminders on local transport backups and taxi fares for latecomers.
 
 .. tip::
     Check whether transport is included in the hotel booking.
