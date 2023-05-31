@@ -1,1 +1,0 @@
-# elixir-no-all-hands

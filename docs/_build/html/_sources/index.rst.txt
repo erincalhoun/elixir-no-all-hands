@@ -10,11 +10,7 @@ Welcome to ELIXIR Norway All-Hands SOP's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   intro
+   phase1
+   phase2
+   phase3
