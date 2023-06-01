@@ -1,5 +1,7 @@
 Sample invitation
 ====================
+.. tip::
+    You can find the invitation in doc format on the `shared drive <https://docs.google.com/document/d/1NJrch-6Yzvjd79cRsiT1NNQ6ysjSDz5lqUyBjU8wKV8/edit#>`_.
 
 =================================
 Invitation to All-hands in Tromsø

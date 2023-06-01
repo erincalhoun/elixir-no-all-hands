@@ -28,6 +28,8 @@ Create a participant registration form that includes hotel reservation options a
     - Node leaders
     - WP leaders
 
+:doc:`agenda`
+
 .. attention::
     Have this ready before inviting the participants.
 

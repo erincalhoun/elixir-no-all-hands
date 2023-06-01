@@ -16,3 +16,4 @@ ELIXIR Norway All-Hands SOP
    phase3
    invitation
    registration
+   agenda
