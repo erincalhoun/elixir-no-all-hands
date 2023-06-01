@@ -57,12 +57,16 @@ The number and type of rooms depends on the program and the (correct) number of 
 
 Prepare and send out questions for the SAC and stakeholders.
 
+`Previous SAC/stakeholder questions <https://drive.google.com/drive/u/0/folders/1W0ovkEyv6Bk5qTbf-_oVGpB0b1oV6Hh7>`_
+
 ---------------------------------
 2.3.2 Board agenda
 ---------------------------------
 Prepare and send out the Board meeting agenda.
 
 The local node must prepare a 30 minute presentation.
+
+`Previous Board meeting agenda <https://drive.google.com/drive/u/0/folders/1RRFalCqLOS4YCv5GIas7hGhoAwQrsmRu>`_
 
 ==========================================
 2.4 Coordinate
