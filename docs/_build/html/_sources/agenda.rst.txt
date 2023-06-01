@@ -5,6 +5,6 @@ Sample agenda
 
 .. raw:: html
 
-   <div style="display: flex; justify-content: left; height: 6900px;">
+   <div style="display: flex; justify-content: left; height: 7000px;">
     <iframe src="https://docs.google.com/document/d/1ZYDdV9IE39KzFlzAZ2M4Q1kqz-VBfszsCD6igLo0BHQ/edit?embedded=true" style="width: 100%; height: 100%; border: none;">Loading...</iframe>
    </div>
