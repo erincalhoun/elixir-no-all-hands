@@ -36,6 +36,8 @@ Create a participant registration form that includes hotel reservation options a
 ==============================
 Send out an email invite with deadlines for **registration** and **hotel bookings** to all personnel.
 
+:doc:`invitation`
+
 .. tip::
     Participants should book rooms themselves when possible.
 

@@ -6,7 +6,7 @@ Phase 2: deadlines approach
 ==========================================
 Send out an email reminder of the registration and hotel booking deadlines to all ELIXIR-NO personnel.
 
-.. warning::
+.. attention::
     Monitor for attendees who book rooms but don't register!
 
 ==========================================
@@ -40,7 +40,7 @@ Organize transport for SAC and stakeholders when necessary.
 ---------------------------------
 The number and type of rooms depends on the program and the (correct) number of attendees.
 
-.. warning::
+.. attention::
     Book as far in advance as possible to ensure availability.
 
 ==========================================

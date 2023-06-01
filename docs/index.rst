@@ -14,4 +14,5 @@ ELIXIR Norway All-Hands SOP
    phase1
    phase2
    phase3
+   invitation
    registration
