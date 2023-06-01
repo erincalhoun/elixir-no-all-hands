@@ -18,6 +18,8 @@ Ask the hotel for the final date of confirmation (total number).
 ==========================================
 Create a participant registration form that includes hotel reservation options and dietary restrictions.
 
+:doc:`registration`
+
 ===========================
 1.3 Make a tentative agenda
 ===========================
