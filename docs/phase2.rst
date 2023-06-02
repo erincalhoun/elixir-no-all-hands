@@ -16,7 +16,7 @@ Send out an email reminder of the registration and hotel booking deadlines to al
 ---------------------------------
 2.2.1 Book rooms
 ---------------------------------
-Book rooms for SAC and stakeholders.
+Book hotel rooms for SAC and stakeholders.
 
 ---------------------------------
 2.2.2 Book flights
@@ -39,6 +39,8 @@ Organize transport for SAC and stakeholders when necessary.
 2.2.4 Book hotel breakout rooms
 ---------------------------------
 The number and type of rooms depends on the program and the (correct) number of attendees.
+
+Make sure to book a room for the Board meeting on the last day.
 
 .. attention::
     Book as far in advance as possible to ensure availability.

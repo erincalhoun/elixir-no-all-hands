@@ -8,7 +8,7 @@ Book a conference hotel with *X* rooms. When possible, get a booking code for pa
 
 A tender is needed to get an order number. Return this to the hotel with invoicing information.
 
-Ask the hotel for the final date of confirmation (total number).
+Ask the hotel what date you need to provide the final number of participants.
 
 .. tip::
     You may need to argue for the desired location.
@@ -21,17 +21,30 @@ Create a participant registration form that includes hotel reservation options a
 :doc:`registration`
 
 ===========================
-1.3 Make a tentative agenda
+1.3 Plan the event
 ===========================
 .. admonition:: Responsible:
 
     - Node leaders
     - WP leaders
 
+--------------------------
+1.3.1 Make an agenda
+--------------------------
 :doc:`agenda`
+
 
 .. attention::
     Have this ready before inviting the participants.
+
+--------------------------
+1.3.2 Preliminary meetings
+--------------------------
+Consider the possibility of preliminary meetings and/or side events like hackathons, training, or workshops.
+Internal cross-WP events can be arranged by WP leads/members. External side events can be arranged together with RIs/initiatives/organizations.
+
+.. tip::
+    These events are very relevant for continued synergy of the BioMedData project and may add extra value from the biodiversity and precision medicine landscapes! 
 
 ==============================
 1.4 Invite ELIXIR-NO personnel
@@ -47,6 +60,8 @@ Send out an email invite with deadlines for **registration** and **hotel booking
 1.5 Invite SAC and stakeholders
 ===============================
 Send out an email invite with the deadline for **registration**.
+
+You can find `an overview of the scientific advisory committee, stakeholder panel, and steering board <https://elixir.no/organization/organisation>`_ on the ELIXIR Norway website.
 
 ====================
 1.6 Invite the Board
