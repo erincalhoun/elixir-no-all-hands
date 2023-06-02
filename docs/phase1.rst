@@ -41,10 +41,10 @@ Create a participant registration form that includes hotel reservation options a
 1.3.2 Preliminary meetings
 --------------------------
 Consider the possibility of preliminary meetings and/or side events like hackathons, training, or workshops.
+
 Internal cross-WP events can be arranged by WP leads/members. External side events can be arranged together with RIs/initiatives/organizations.
 
-.. tip::
-    These events are very relevant for continued synergy of the BioMedData project and may add extra value from the biodiversity and precision medicine landscapes! 
+These events are very relevant for continued synergy of the BioMedData project and may add extra value from the biodiversity and precision medicine landscapes! 
 
 ==============================
 1.4 Invite ELIXIR-NO personnel

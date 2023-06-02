@@ -62,6 +62,8 @@ Arrange refreshments (like a glass of bubbles) with the hotel for celebrations/t
 Decide the conference room setup (for example, classroom, hollow square, U-shape, etc.).
 
 .. tip::
-    This may change between All-Hands and SAP, so make arrangements with the hotel.
+    This may change between All-Hands and SAC, so make arrangements with the hotel.
 
 Check with the hotel that all technical equipment for the meeting is in place.
+
+Remember to prepare for a group photo session!
