@@ -64,7 +64,7 @@ Send out an email invite with the deadline for **registration**.
 You can find `an overview of the scientific advisory committee, stakeholder panel, and steering board <https://elixir.no/organization/organisation>`_ on the ELIXIR Norway website.
 
 ====================
-1.6 Invite the Board
+1.6 Invite the board
 ====================
 .. admonition:: Responsible:
 

@@ -40,7 +40,7 @@ Organize transport for SAC and stakeholders when necessary.
 ---------------------------------
 The number and type of rooms depends on the program and the (correct) number of attendees.
 
-Make sure to book a room for the Board meeting on the last day.
+Make sure to book a room for the board meeting on the last day.
 
 .. attention::
     Book as far in advance as possible to ensure availability.
@@ -64,11 +64,11 @@ Prepare and send out questions for the SAC and stakeholders.
 ---------------------------------
 2.3.2 Board agenda
 ---------------------------------
-Prepare and send out the Board meeting agenda.
+Prepare and send out the board meeting agenda.
 
 The local node must prepare a 30 minute presentation.
 
-`Previous Board meeting agenda <https://drive.google.com/drive/u/0/folders/1RRFalCqLOS4YCv5GIas7hGhoAwQrsmRu>`_
+`Previous board meeting agenda <https://drive.google.com/drive/u/0/folders/1RRFalCqLOS4YCv5GIas7hGhoAwQrsmRu>`_
 
 ==========================================
 2.4 Coordinate

@@ -277,7 +277,7 @@ ELIXIR Norway board meeting
 
 Board meeting, *separate agenda*
 
-15.00 **END: Transport back to airport for those that are leaving**
+**15.00 END: Transport back to airport for those that are leaving**
 
 :::::::::::::::::::::::::::
 Practical information
