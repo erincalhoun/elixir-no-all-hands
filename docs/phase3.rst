@@ -39,7 +39,7 @@ The number of attendees fluctuates for each meal:
 
 - People may cancel individual dinners.
 - Attendees leave at different times; many leave before the SAC meeting.
-- The Board may join lunch on the last day.
+- The board may join lunch on the last day.
 
 .. attention::
     A well-coordinated attendance list is a must! The number and types of meals should be tracked and reported to the hotel before dinner preparation. Verify special requirements.
