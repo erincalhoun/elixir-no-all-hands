@@ -3,6 +3,7 @@ Introduction
 
 These pages list all tasks in order for the preparation of an ELIXIR Norway All-Hands event, from announcement to event.
 
+.. image:: plandisc.png
 
 **Total budget 2018: 140 000**
 
